@@ -1,0 +1,3 @@
+[submodule "kraken"]
+	path = kraken
+	url = git@github.com:kraken-hpc/kraken.git
